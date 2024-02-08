@@ -6,6 +6,9 @@
 'summer of code':
   - programs/summerofcode/*
   - programs/summerofcode/**/*
+# Add '2024' to any change to 2024 summerofcode file
+2024:
+  - programs/summerofcode/2024.md
 
 # Add 'season of docs' label to any files in the season of docs project
 'season of docs':
